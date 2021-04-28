@@ -6,6 +6,7 @@
 **Haar Feature Selection:**
 
 All human faces share some similar properties. These regularities may be matched using Haar Features.
+
 **Creating an Integral Image:**
 
 An image representation called the integral image evaluates rectangular features in constant time, which gives them a considerable speed advantage over more sophisticated alternative features
